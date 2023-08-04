@@ -1,0 +1,1 @@
+print(__name__,'this is module 1')
